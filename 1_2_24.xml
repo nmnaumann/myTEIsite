@@ -1,0 +1,1729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_dlc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Title</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>Publication Information</p>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording type="audio" dur="PT3H7M24S">
+						<respStmt>
+							<resp>Location recording <note
+									source="https://web.archive.org/web/20220516123118/http://www.dialecticsofliberation.com/1967-dialectics/memories/"
+									> according to a citation of Roy Battersby on the Memories of the Congress webpage
+									of the Dialectics of Liberation website, no source provided </note>
+							</resp>
+							<persName ref="http://viaf.org/viaf/279958367">
+								<forename>Roy</forename>
+								<surname>Battersby</surname>
+							</persName>
+							<persName>
+								<forename>Ben</forename>
+								<surname>Churchill</surname>
+							</persName>
+						</respStmt>
+						<equipment>
+							<p>Revox tape recorder</p>
+						</equipment>
+						<date when="1967-07-27" source="fill in">Thursday, 27 July 1967</date>
+						<time when="15:00:00" source="fill in">3 pm</time>
+					</recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Dialectics of Liberation Digital Archive</p>
+			</projectDesc>
+			<editorialDecl>
+				<p> This is a first attempt of encoding a transcription of an audio file of an event at the Dialectics
+					of Liberation Congress in London in July 1967 </p>
+				<p> if available, person names are uniquely identified with a reference to the respective permalink at
+					the VIAF Virtual International Authority File (https://viaf.org/) </p>
+			</editorialDecl>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="en">English with different accents</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change/>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="speech">
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/58927582">
+							<forename>Roy</forename>
+							<surname>Sawh</surname>
+						</persName>
+					</speaker>
+					<p> Ladies and Gentlemen my brothers and sisters good evening and welcome to the Roundhouse we are
+						about to begin the most important meeting of our brother from the United States Stokely
+						Carmichael and we do hope that after we leave here tonight or before we leave colored people in
+						this country would start thinking of doing something to solve our problems in this country when
+						you look at this morning's newspapers every one of them you find that there are a lot of
+						journalists pseudo-intellectuals who are predicting where the race riot is going to start in
+						England the white man has been predicting too long for too long too much about colored people
+						and if there should be a race riot in this country I do hope when they think it's going to start
+						in Manchester and they're all waiting down there we shall start it in Ladbroke Grove you call it
+						Notting Hill Gate boy that's what a white man call it we call it a grove it I know it is very
+						difficult for many of my colored brothers and sisters to realize the predicament colored people
+						are in this country and most of you unfortunately I've been meeting you for a very long time
+						still cannot come to your senses and see that instead of colored people making progress in this
+						country we are going backward and backward and backward some of you think that you are better
+						off than the unfortunate brothers who cannot get a job because some of you have got a car
+						because some of you have got a nice flat you think you are making progress but you're not making
+						progress all you are doing is you are imitating the white man's way of life his whole society
+						his whole economy is based on the HP and by you taking part and enjoying the luxuries according
+						to your luxuries by end by joining in into the HP system you are not getting anywhere there are
+						many shades and opinions among colored people themselves and that is because we come from
+						different parts of the Commonwealth that's what the white man calls it again Commonwealth and we
+						find that because of this there are different kinds of propaganda that were used in our
+						countries to divide colored people for example in Guyana I'm sure you only know the situation
+						too well where one side was played against the other but in South Africa we find that we have
+						got the other side playing against the other and then we find in India we have got Pakistanis
+						being played against Hindus and in England now we find that Indians are being played against the
+						Negroes there are many of my Indian brothers who really honestly believe that he's not Black but
+						whether you come from India Pakistan Africa or the West Indies and when you go and you're
+						looking for a room and you see a sign that says sorry no colored it means all of us the white
+						man has divided us at home but because of his racialist society he has united us in this country
+						let us use this unity in trying to solve our problems for our people so much has been said and
+						so little done and yet you find if you take the newspapers and you read you will find that he's
+						telling you that you're making progress 17 years colored people have been coming to this country
+						and 17 years from then today we have got two policemen and the white man tells us that's
+						progress of course it's progress it's progress for him because 17 years ago we didn't have any
+						but do you honestly think that colored people becoming policemen is going to solve our problems
+						because when a Black man has become a white man stooge he's more dangerous to the master himself
+						what colored people needs in this country is a strong solidarity among colored people whereby if
+						we were to get together we can form cooperatives housing schemes and take our resources of this
+						country and utilize it for the benefit of colored people let me give you an example there are
+						eight hundred and eighty thousand colored people in England today don't worry about the white
+						man he says one million because when he sees ten Black man he thinks it's a thousand he can't
+						count you see and let us assume for argument's sake that every colored man is not working but I
+						am pretty sure on the other hand that out of that 880 000 colored people 500 000 of us are
+						working and if you work you must spend and if say one colored man spends ten pounds per week it
+						means that 500 000 people in this country are spending 5 million pounds per week since we live
+						in a capitalist society let us be generous that the rate of exploitation is only ten percent it
+						means every week the white man in this country is making 500 pounds 500 000 pounds profit from
+						Black people and you know who owned the shops if we were to have our own businesses and our own
+						cooperatives we could channel this money for colored people where we can start employing colored
+						people to run colored people's affair for colored people and I am sure this is what Black power
+						means for too long the white man has been trying to tell us what is good for us and what is not
+						good for us my Black brothers let us join with me and let us tell them together that if what is
+						good for the Black man is going to be decided by the Black people for themselves when we talk of
+						colored people uniting we are called racialists but when the Jews have got an organization and
+						they say Jews only it's all right if the Irish have got an organization and they say Irish only
+						it's all right when the Greeks have got an organization and they say Greeks only it's all right
+						but from the time Black people say Black people only everybody calls us racialist ask yourself
+						think for yourself there must be something wrong with them if every time we try to do like them
+						we are called racialists when we talk about getting together they tell us that we are racialists
+						but when the white man wants to get together he calls it the European Economic Community as I've
+						always said and I'm saying it again that anything that is good for a white man is not good for
+						the Black man because we are Black and they are white and if this is the criteria of
+						civilization in the Western world then colored people must start looking at yourselves once
+						again we from the West Indies especially my West Indian brothers we should know best that
+						integration doesn't work we have been so integrated we have been so anglicized and when we come
+						to this country all we can get is a job on London transport and they tell us that they're not
+						prejudiced because they employ us on London transport but have you ever seen a Black person
+						inspector have you I haven't you know why you're Black brother you're Black because they told us
+						when we appealed to them why don't we have Black bus inspectors they said to us that one of the
+						prerequisites to become a bus inspector must be personality can you imagine those old goddamn
+						white man standing at the corner coughing six o'clock in the morning when this place is cold can
+						you see what personality he has got no my brothers we can laugh and we can talk but I believe
+						the time has come when colored people have got to do something very serious the white man tells
+						us take it easy we have just set up a new ministry the Ministry of Integration now what is
+						integration I do not know what integration is and because I do not know I do not want to know
+						and I do not believe in it if the white man really believes in integration when he came to
+						Africa why didn't he integrate with us when he went to India why didn't he integrate with us
+						when he went to Wales and Scotland why didn't he integrate with them no the Anglo-Saxon swines
+						believe that their way of life is the best and wherever they go they impose their culture and
+						they impose their way of life so we are going to tell them from one part of the world to the
+						other that the time has come when Africa must be owned ruled and controlled by Africans where
+						Asia must be ruled and controlled if possibly by Mao and we're in Latin America if we can get
+						Caribbean and Latin American unity I am sure Dr. Castro will not refuse to run it see the white
+						man is not afraid of the Chinese because the Chinese have got a bomb he's actually afraid that
+						if the Chinese would to deliver that bomb would they be more barbaric in using the bomb than
+						they had used it in Hiroshima this is what they are afraid of they are afraid that if Black
+						people were to get power would we kill as many of theirs as they killed of ours and they always
+						talk about five million Jews but they never talk about the millions of Indians and Africans and
+						the Aborigines they have killed all over the world the Jews are white that's the trouble with
+						the Jews my friend systematic means Black and if Jews think they are white then we will leave
+						you to decide that for yourself the English people have tried to share the blame on all other
+						people when Hitler was building concentration camps even many contemporary today are trying to
+						tell us that the German people were the first people to build concentration camps and none of
+						you most of you will agree with me that this is not true because the first concentration camps
+						in the world were built in South Africa during the Boer War which was built by the English and
+						it was there who built concentration camps where 28 000 people died in the concentration camps
+						and only 22 000 people died actually fighting the Boer War which means because of their
+						civilization more people have died in a concentration camp that have died actually fighting for
+						liberation so we say to our Black brothers our forefathers were stupid maybe too honest maybe
+						too religious let us show to them that we are not our ancestors they keep blaming us for what
+						our ancestors did but they do not want us to blame them for what their ancestors did are we
+						going to struggle with shoulders throw the blame off and we got to tell them that you're not
+						dealing with our ancestors you are dealing with us it is true when you came to Africa we did not
+						know the uses of gold so you took it but today we know the uses of gold we have come back and we
+						want it and if you're not prepared to give it to us then we shall use all means necessary to
+						achieve our objective Ladies and Gentlemen the gentleman best suited to tell you more about this
+						is my brother the privilege is mine the honor is yours it is my great pleasure to introduce to
+						you it's all right he says he doesn't want to talk to you but instead we have got another
+						gentleman my brother Phil who will be saying a few words </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/21793332">
+							<forename>Michael</forename>
+							<surname>de Freitas</surname>
+						</persName>
+					</speaker>
+					<p>salaam alaikum over the past week can you hear me this sounds strange man I'm not hearing white
+						man's tools they're defective over the past week there's been a congress going on here or so I
+						was told anyhow it's called the Dialectics of Liberation in this congress I'm a participant of
+						it and so is Mr. Stokely Carmichael so there's a lot of other people Phil Epstein who is a
+						psychiatrist practices in Chicago is also a participant in this congress he's here observing and
+						so far he has sat in the audience listening to all what is happening one night we were sitting
+						somewhere not going to tell you where you might rate it we were getting high I'm discussing a
+						lot of things and the result of that highness is this gathering this evening I'm not here to
+						make a speech now you're going to hear that later but right now Mr. Philip Epstein is yours </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName>
+							<forename>Phil</forename>
+							<surname>Epstein</surname>
+						</persName>
+					</speaker>
+					<p>I think it's best for me to carry on then from where Michael left off how this meeting came about
+						and how I see it in the context of the Dialectics of Liberation one of the things that I
+						recognized was that of all the participants in the Dialectics Stokely was certainly unique among
+						us that he was the certainly the most significant activist in terms of in terms of just what he
+						is doing and there have been many enthusiastic and uh vigorous discussions here at the
+						Dialectics and yet who besides Stokely has been carrying out these ideas rather than just
+						talking about them and theorizing and perhaps um um who has been living in the Third World
+						rather than just talking about it and I think Stokely has been one of them so therefore the one
+						of the best things I thought to make the Dialectics of a true dialectics was to have uh
+						something more of the nature of this meeting which as I uh look around and I can see that that
+						there are lots of people here who haven't been here this past week and um these are perhaps
+						these are the these are the people of the movement these are the people of Stokely's movement
+						and these are the people of Michael's movement um now I would just like to comment also then
+						that that's about the genesis of how this meeting came about today but some of my observations
+						of the congress uh to date and it has been a lot of very enthusiastic vigorous talk um a lot of
+						militant ideas and at times a lot of sort of angry feelings that have been expressed and I think
+						one of the things that I've noticed is that um there's been kind of like a an attempt to
+						suppress this this this anger and this uh it's almost a thing like people are trying to placate
+						Stokely here well lets you know how do you deal with this Black power and I think some of the
+						one of the uh realities that many of the participants of the congress haven't come to terms with
+						is how how can they deal with their own uh uh I don't know whether they label it this way but
+						fright as it were with Stokely and I think some of this came out last night in the uh for those
+						of you who were here last night and uh saw a situation in which uh it almost seemed like it was
+						really you know it really wasn't uh rational in a sense now I saw that as good because I I feel
+						this was really at the guts level and this is where it's at as it were and it's not uhm all up
+						here and I think this is what Stokely has been trying to tell us and the difficulty has been
+						that we we still can't appreciate it for that that it really is uhm a guts level thing and here
+						we are for we've been going on for a week now um again with abstractions and
+						intellectualizations now how is it like one of the uh reasons I came to the congress was what
+						what can I do in my role I'm a training psychiatrist and I know as well as many other many of
+						the other mental health professionals who are here is that the psychiatric profession is an
+						implicit uh sort of unconscious supporter of the powers that be in the status quo when
+						challenged about this the psychiatrist will get naturally very uptight about this no they must
+						maintain their objectivity they must be objective they just look and they just describe but they
+						don't act and this is the part of the this is where their unconscious lies now what about this
+						is this the real role of the psychiatrist today I'm trying this is what I'm trying to to find
+						some answer to here and this is perhaps one of the major questions of the whole Dialectics in
+						terms of not everyone who comes to the Dialectics is a uh uh sort of activist 24 hours a day
+						they should be but they can't be in terms of like going out and organizing and talking to the
+						people and being in the streets and so forth and so on but they each have a role and each one
+						can like be an activist in their whatever level they're at and I think uh one of the other
+						things about the uh congress has been that there there's been an attempt to find the answer and
+						clearly there is no he answer uh Stokely has shown this he doesn't talk about what every that
+						everybody should be a Stokely Carmichael he talks about himself and what he's doing and this is
+						how he's active everyone who's here at the congress could in some way act with the type of
+						energy and the type of insight and the full devotion to the truths and the realities that all of
+						us know but all of us are constantly pushing away and pushing aside and rationalizing so that we
+						can maintain our status in whatever role we happen to be in and you know like you're afraid to
+						take that step in some way but I don't think that's what's being advocated here everyone doesn't
+						have to go out and become an active uh militant out in the streets and what have you but within
+						their own some may some may do this some may drop out that's fine but I think everyone can in
+						some way define what it is that they have to do and as Stokely says for the white man what is he
+						going to do for the white society there I mean this is this is the thing he doesn't Stokely
+						doesn't need the help he's doing it himself he's doing it with his Black brothers so what can
+						the white man do in this context and again all of us have to seriously consider this question
+						and I think by engaging in a true dialectics such as what's happening today where I you know
+						like this is really a mixed audience it hasn't been this whole past week this is the first day
+						this is happening I think this is good uhm I just wanted to uh also point out the the uh some of
+						the other things that have been happening uh during this past week which I think has
+						distinguished Stokely from some of the other people who have been at the congress here and who
+						have been theorizing and who have been talking in great earnest I agree but somehow it still
+						doesn't seem to like uh get off the ground or get somewhere um and this has to do with it's
+						clear that Stokely hasn't just been talking he's been working and he's been working damn hard
+						Michael has been working also so while the congress has been going on there have been two at
+						least two maybe more I'm not saying no one else has been working but this is what what I know of
+						and what I've seen but there have been at least two participants who have been working out and
+						doing the things that everyone else is talking about while they're talking about it here and
+						this is where the real stuff is again because this is the guts level stuff and it's not just uh
+						this uh talking and theorizing about the Third World it's living in the Third World because it
+						is here and this is what everyone has to come to terms with um so as this has been going on
+						there has been a lot of work which has been uh accomplished and I think one of the great things
+						when people try and describe well what has what what are the aims and what are the goals of the
+						Dialectics is it people are trying to evaluate now is it being successful um from from my pers
+						from my viewpoint it has been if only it's if it's only meant the two uh uh significant uh
+						activist leaders of the liberation movement if we put in generalities the liberation movement of
+						the Third World they have had the opportunity to get together to know one another and to work
+						together and somehow when when the scene is over with and I hope this uh the other people who
+						have been participating they will leave the congress with the same uh type of feeling and not
+						some sort of thing in their mind about how well it failed because this point wasn't made and
+						this detail wasn't worked out and so forth and so on but if somehow they take away with them the
+						feeling of having met another person who is like somewhere else whether it be America or the
+						West Indies or what have you but there's someone else that they've gotten to know very well and
+						someone that they uh like this business about you know brotherly love and all that but like it
+						really happens and it's not the talk and the people have worked together and they have shared
+						ideas and like maybe they fought together about their different viewpoints but if they can leave
+						with this sort of thing having happened then I think the congress is successful and I think it's
+						set out to it will have accomplished part of that which it's set out to accomplish in providing
+						a true dialectics a true opposition of just not just the theory but the action and a synthesis
+						will have come about which is personally meaningful for everyone and maybe it can't be quite
+						stated that well in words but they somehow carry it inside of them and I think everybody
+						realizes that this is what a movement is all about you have to feel it um that that more or less
+						uh sums up what I wanted to say we had oh can is this thing working yeah we may have something
+						else here which is a uh uh we'll have to see if it will work or not it's a tape recording of
+						some of the uh sort of informal sessions that that have happened um which I think would would uh
+						give everyone some idea of how how things are how things are accomplished how ideas uh generate
+						in terms of ideas which generate between individuals which then have social significance in
+						terms of who these people are and what they do and how they act on them for example the idea of
+						this type of scene today being a part of the Dialectics and uh if this tape will work then you
+						um so at this point I'd like to uh then turn the microphone over to uh Michael who will talk to
+						you further thank you </p>
+				</sp>
+				<sp>
+					<speaker>unknown</speaker>
+					<p>could you check and see if it's working</p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/21793332">
+							<forename>Michael</forename>
+							<surname>de Freitas</surname>
+						</persName>
+					</speaker>
+					<p> there were a number of things that Phil said which pleased me very very much like when he looked
+						at this audience and he says that today it's a mixed audience and I look outside there and I see
+						a whole sea of Black faces that's how I want my mixture to be I don't want anybody to be
+						frightened at such a suggestion my brother Malcolm used to say that's his picture up there have
+						you ever seen such a pretty Black man that's brother Malcolm he used to frighten a lot of white
+						folk a lot of Niggers used to get frightened too a lot of them used to love him on the on the
+						stage tonight there are a couple of people I hate I don't want to conduct this as any chairman
+						or anything like that because we don't have those people that's the white folk have them but
+						seeing that I have the mic in my hand I'll tell you who the people are gotta look this gentleman
+						in the corner is Mr. Obi he's from Nigeria he's a member and here in England a lot of things are
+						said in the newspapers about myself for example like if you read the Sunday Mirror today it says
+						a lot of nasty things which you know are lies they're not true at all but I'm not the person or
+						the kind of person to be frightened of I'm an old man I'm an old revolutionary and it's time I'm
+						going to pack up my shoes and go to sleep but the young ones like young blood here Winston these
+						are the people who you're going to be seeing a lot of and hearing a lot about earlier this
+						evening before we all started a white man came up to me by the door and he says it looks like
+						you're operating on CP time today now I don't have that kind of dialogue with white men and I
+						ask him what do you mean he says CP Time say what's that what's that you know because I don't
+						know what it is it says colored people's time well I surprised him asking such a question
+						because if you have all these Black people here surely you're going to operate on their time but
+						on this question there's something there that needs a bit of clarification or understanding the
+						Black man's time is orientated from the agricultural society the sun rises in the morning and it
+						sets in the evening and if a Black man is talking to his brother or anybody else and he says
+						I'll see you in the morning or I'll see you in the evening it's never something like I'll meet
+						you at four o'clock or two o'clock or three o'clock that's because in our societies we operate
+						with the rising of the sun and the setting of the sun it's a very simple thing the white man he
+						operates he punches his clock with the industrial revolution and all that type of thing he
+						punches his clock in at six in the morning he punches it off at six in the evening and he and he
+						fixes up his whole life in relation to the clock we don't as a result of that he says we are
+						terrible we are unreliable we are this we are that we are the next that's his style if you will
+						begin to try understanding maybe we can talk some business but we can't now for centuries Black
+						men the world over talked of things like understanding the problem they were very busy
+						understanding what is happening they were very busy for many centuries our forefathers talking
+						about compromising in certain situations and get into some work in format between the Blacks and
+						white peoples in the past 50 or 60 years or so the mood changed some 15 20 years ago the
+						hustlers in New York and other parts of the state started working more in more recent times with
+						the coming of people like my present teacher the honorable Elijah Muhammad there was a bit of a
+						change like today I am here just me me one on as a Muslim together with one or two other Muslim
+						brothers who are sitting here that's all but people talk about Black Muslims and you have a
+						whole lot of policemen hanging about out there they expect riots riots strange word well I don't
+						believe that we can compromise or understand or find out what the white man is talking and let's
+						sit down and talk about it and all this type of thing because while we're talking about it he's
+						busy outside there kicking my brother's head in and I I don't I frankly I don't see how it is we
+						can sit down and talk over the situation why and forget the action while it's happening out
+						there I think we have to get involved in the action and go outside and help this fellow who is
+						getting his head broken in all of us sometimes when we talk and we say things like these because
+						of where we come from and how we are and I'm deeply ashamed about it I find that I speak in a
+						very apologetic manner as if I'm apologizing for what I am well I'm not I'm not doing that at
+						all I know that words are applied to us like racist like you're racist well this is true I am I
+						am a racist because the definition of this racism as far as I understand it is people who love
+						their own well I love my own and I am willing to die for my own once upon a time we were few who
+						would say things like that I know that the vast majority if not all of the Black people inside
+						of here are today thinking this very same way if the white man is frightened don't worry about
+						that we have been frightened for centuries I get frightened when I walk outside there and I see
+						a whole lot of white men I get frightened when I walk from my house to the tube station and all
+						what I see a white man and it's late at night I get very frightened once I lived down in Notting
+						Hill and my wife she moved from there to Islington she had a very strange complaint she says I
+						want to go back to the Grove he says but why baby look I bought you a nice house now you know
+						you have a nice place to live for us and the kids she says but I don't feel safe here this is
+						the type of society that we are living in a lot might be said about the Black men who it is
+						walking down the streets with white women I've heard a lot about that in the past days well I
+						was doing that not too long ago either but I know what I was doing I was selling them the
+						revolution needed bread and you know when it is it was needed for labor to be transported back
+						to the Caribbean area that they picked up our slaves and Black people and threw them over there
+						to cut sugar cane and do all my of menial jobs for free well I discovered when I came here when
+						I wanted to work that one of the the highest saleable commodities was white women so I went and
+						got me a few to sell when we speak the truth like this some of our people get quite offended
+						about it and they say those are not nice things to say my brother Malcolm told me anytime you're
+						talking anywher e speak the truth he says it's easier that way people may look at us and say
+						they're a bunch of crazy Niggers a lot of white people inside of here may say something like
+						that well this crazy Nigger was looking at this house and it's all wood all the way around and
+						there's only one exit only one there are four Black men at that door and he ain't letting
+						anybody out that's another crazy Nigger like me this is very good for you to take a look at and
+						listen very very carefully the white ones I'm not really worried about what it is you evaluate
+						from these things but this is the mood of the people and this is what it is they believe and
+						this is what they feel they don't say things that they don't feel they're not like that they
+						don't they haven't learned how to lie they're loving and they're kind Black people all of us are
+						we love everybody like mad we have been loving them so god damn much for the past 300 years that
+						we loved ourselves almost into the ground unto death here in this part of the world today and in
+						America there's a new movement which moved up which we here call the hippies and flower people
+						quite a few of them have been into the other days of the Dialectics a lot of strange questions
+						were asked they say that their philosophy is love that they love everybody that's what they say
+						now love is something that I know a lot about because I love to love it just knocks me out but
+						loving is something which comes from down here in the gut right down here you feel it when you
+						love and you love someone you're willing to die for them to die for them for the one that you
+						love the white people who talk about love are willing to sit inside of this blasted hole and
+						intellectualize about love talk about it what a wonderful thing it is and how it is we all love
+						each other that's not love that's something else I have a lot of hope for these hippies because
+						I'm hoping that they will eventually find the true way and they would look at people who know
+						about this thing who can tell them who has been devoid of love all their lives and maybe
+						something can happen it is useless really for me to go all the way on in talking about this love
+						because the majority of people are Black and if any of the white ones want to know some more
+						about it then I'm sure Stokely will tell you how it is we love each other he'll tell you what it
+						is he's doing about this love yesterday a young girl came here she was standing right over there
+						and she was very very disturbed over what Stokely was speaking and she started to phrase some
+						questions at him throw some questions and she made a very strong emotional type of talk she was
+						shaken she was trembling when she was finished and she was passing out and she I told her look
+						I'm sorry you know because I was she's a human being and I felt very sorry for her and I wanted
+						her to know that I felt sorry for her and I had to tell her but when I told her this she wanted
+						to know some more about now that she found an understanding Nigger she wanted to me to tell her
+						well what can be done so I told her exactly what can be done she had to go home and kill her
+						mother and her father there's nothing else that those white people who it is understand our
+						problem and who are busy telling us that they love us there's nothing else that they could do
+						but to go home and kill their mothers and their fathers because their mothers and their fathers
+						are the vicious racists who it is they come and tell us exist since they can come to us and tell
+						us about this awful vicious white man who is out there they come under many guises they call
+						themselves white liberals they call themselves many things but when they come telling us about
+						those vicious white people remember it's their mothers and fathers they're talking about and
+						there is no other way for them to really prove themselves to us because prove themselves they
+						must talk is very very cheap and a lot of them come with all of this fancy talk and they have
+						been doing it a long long time during Stokely's talk yesterday some other things were said
+						people were attacking him fools of course and wondering what has he done rather than stand on a
+						platform and talk he's been in jail 35 or something like that times it's so much you can't even
+						look can't even remember them four Black people fought on the streets was beaten and not easy
+						they had to put up a fight but when he turned along and he asked that white man what have you
+						done he hadn't an answer that white man was about 27 or 28 years of age he couldn't answer that
+						question over the past week a lot of people have been ringing up and asking look at could we
+						come up and spend an evening with you because they know Stokely was there and they know that
+						brother George this is brother George Ware I didn't even see him behind me brother George Ware
+						who flew over from America with Stokely a lot of people wanted to spend an evening or two with
+						us and talk because this is our way you know how we love each other but my house is not big
+						enough to have everybody we attempted an experiment to tape our evenings what we were doing
+						talking how we sit what we say to each other and hope that through this tape we can bring our
+						sitting room into the Roundhouse and allow you to have the experience of the evening even though
+						you were not there there's nothing edited about it so there may be long gaps of silence there
+						may be anything I have no idea what is on it just tapes kept running all the time we'll attempt
+						to see whether it is it is possible for the sounds from these tapes to come out to you and hope
+						that in this it's the best that we could do until when we have a bigger house after this tape if
+						it works we'll switch over to brother Stokely I think uh where where this seems to start is uh
+						this was a tape from last night actually and I think we George was starting to discuss the uh
+						the Diggers and what uh you know what their scene was what are they doing uh how does this how
+						does the uh Diggers movement or uh as part of the hippie dropout movement how does that relate
+						to an activist Black movement um and how does it relate to all other movements and what have you
+						we'll we'll try it now first time me I'm trying to find myself and all that it's another thing
+						to struggle to do that I mean not just can you understand any of that okay um okay well then
+						we'll carry on with uh like things that you can hear and uh Obi will speak now</p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/46793302">
+							<forename>Obi</forename>
+							<surname>Egbuna</surname>
+						</persName>
+					</speaker>
+					<p> well brothers and sisters I'm sure we're all dying to hear Stokely Carmichael the great man
+						himself so I'm going to be as brief as possible all I'll try to do is to introduce the man I
+						know as one of the greatest Black men alive today Stokely Carmichael you see I think the most
+						striking thing about this meeting is that when you look up here you see a Black man all the way
+						from America the Northern States of America and you find another Black man from Guyana you find
+						another Black man from Africa as you can tell from my jungle robes and I yes the Englishman
+						keeps telling me I've come from the jungle but I was here only one week and I discovered I've
+						come from one jungle to another so we are here tonight to see that one jungle does not eat up
+						another jungle however you see Black people from all parts of the world coming here today and
+						we're all saying the same thing the white man is dead the white man is dead and to explain this
+						over a hundred years just over a hundred years ago a German philosopher called Nietzsche made a
+						startling statement to humanity he told them that God was dead and everybody was startled but
+						what actually Nietzsche was talking about he wasn't talking about the physical death of a God he
+						was talking about the psychological attitude of his own contemporaries and today the Black man
+						is beginning to tell the whole humanity that the white man is dead the white man has an idea of
+						that human being who defines what is good and what is wrong the white man who looks at the Negro
+						has a clay for molding they come to Africa and they see me as a barren slate where they go to
+						engrave their convictions that white man is dead he died in Hiroshima he died in Nagasaki that
+						white man died in Sharpeville in South Africa and today he's dying in in in in in Vietnam he's
+						dying today he he's dying today in Newark in New Jersey where even a bigger meeting of Black
+						power is taking place this very minute the white man is dying every day and this is why today I
+						say that Stokely Carmichael not only represents a human being he represents an idea an idea
+						which is a new milestone in the Negro consciousness he represents a new note in the dialectical
+						progression of the Black consciousness we've come to a stage when we look at the white man in
+						America oppressing us we look at the white man in Canada who wouldn't even let me in when you
+						studied the Canadian law remember the European preferential migration act when you go to
+						Australia it‘s the white Australian policy they won't even let me in you go to South Africa
+						today it's apartheid in South Africa they'll let me in but they want to sit on me you go today
+						to Rhodesia they call it UDI and Harold Wilson says it's killing kith and kin so the Black man
+						has come to realize that the only way to fight this international white power is through
+						international Black power you see when when when I I had the opportunity when I had before I
+						left this country for America recently every white man was anxious to tell me you see the Negro
+						in America he doesn't like the Africans you know he doesn't like you at all he he has nothing in
+						common with the African but when I went over there the American Negroes insisted that I come to
+						every meeting they had in my national costume because they want to feel they belong to Africa
+						and when I was in Atlanta Georgia in Vine City there's a hostel over there where Stokely
+						Carmichael's party the SNCC have their national headquarters and when I went there and I saw
+						Black boys and Black girls singing not about the queen of England not about not about the
+						president of America but about Oginga Odinga of Africa to me this is something fantastic it was
+						beautiful and I felt beautiful and came back here and say the Black man is not dead yet we're
+						very much alive the white man is dead so the man who is going to expand on this philosophy today
+						is the great man himself Stokely Carmichael but right before I ask him to speak to you I want to
+						ask you when Stokely comes to London and speaks to you and then he goes away what are we going
+						to do where do we go from there because in my experience I've seen lots of militant Black people
+						come from all parts of the world they speak to us come here and we listen and we cheer them then
+						we go back again nothing happens so we treat them like entertainers when you listen to them and
+						they go away it's like going to the London Palladium to hear Bob Hope the time has come when we
+						are going to say what are we going to do because this is a universal Negro struggle so here you
+						have an organization that is calling you to come to contribute all you can to make sure that the
+						Black aspiration is a reality so Ladies and Gentlemen Stokely Carmichael </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p> thank you very very much good evening or good afternoon it's very good to be here we've come to
+						understand that the English government will probably not let us come back to their country after
+						this visit we had planned to stay until Thursday but unfortunately we have something very
+						important to do and we'll have to leave England tomorrow afternoon so that what we thought to do
+						since this will be our last public speaking is to bring together most of the things that we've
+						been saying all week so that to some of you who've been around it may sound a little repetitious
+						we would ask you to bear with us and we'll try and tie it all up together now I wanted to
+						introduce George Ware who Michael already introduced for a number of reasons I think that what
+						happens in the United States is that a lot of attention is focused on me and so you sort of get
+						the impression that there isn't anybody else doing anything that is not true the only reason
+						that I've become important as a symbol in the United States is because of the work of my young
+						Black brothers inside that country if I were doing it all myself I would be in fact irrelevant
+						now one of the things I usually I could say about George very simply since he's been introduced
+						but it's very important for you to get the concept when the Nashville rebellion broke out in
+						April in Nashville Tennessee George was arrested for inciting to riot when he went to the court
+						you must understand the scene there's a white judge all around in front of the courtroom are
+						white people and for once the people observing were all Black that's very important because
+						nothing scares white people like a lot of Black people coming together and if you don't believe
+						that's true now I've been at the Dialectics here all week and I've seen the place more crowded
+						than this with white people I have never seen any policemen outside the door never seen them
+						today was the first day that I've seen four or five policemen outside the door and that of
+						course is because Black people are coming together we were allowed in the past white people
+						allowed us to come together but only for three things to sing to dance and to pray to their
+						white Jesus but any time any time we came together to do anything else they had to break up the
+						meeting now when George was in court he kept talking and the judge picked up his gavel and
+						wrapped it he said if you don't shut up I'm going to charge you with contempt of court and the
+						entire courtroom got quiet and George looked at him and looked at all the white faces around he
+						said you will charge me for contempt of which court and the judge said this court and he said
+						and who is going to charge you and your race for contempt of justice and that's very important
+						because whenever the white man starts off he starts off from his point when we start off we must
+						not start off from his point we must start off from our point very very important let me give
+						you a contemporary example of that Mr. Muhammad Ali who is the greatest man alive today and it's
+						important to note how white people cannot call him by his chosen name Muhammad Ali but insist on
+						calling him by his slave name Cassius Clay yet any time a white English man or woman becomes an
+						actor and she he or she changes their name they can accept that change without even questioning
+						it but they cannot accept the change of Muhammad Ali but let me show you how they start from
+						their point when Mr. Muhammad Ali told the United States army in essence to go to hell and fight
+						their own racist war the World Boxing Championship Commission made up of white men it's
+						important to note that most of the boxers today are Black made up of white men said that they
+						were going to take the title away from Muhammad Ali my question was who the hell are they to
+						take the title away from Muhammad Ali they did not give it to him they did not give it to him
+						Muhammad Ali is the world's heavyweight champion of the world because he beat the hell out of
+						every white hope they put up and if the boxing commission wants the title they've got to get in
+						the ring and take it from him and take it from him so it is absolutely absurd for us to debate
+						whether or not they have the right to take it away they do not have the right we must make them
+						irrelevant to what we have to do Muhammad Ali is still the world's heavyweight champion of the
+						world then one other current observation we have seen in all of the papers that they've been
+						calling us racist I have noticed that all of the press people who have been covering the
+						meetings are all white there isn't one Black man among any of their newspaper staff yet they say
+						we are racist and they expect me to have a silly argument with them on whether or not I am a
+						racist that is absurd terribly absurd they don't have a Black man among them obviously they're
+						racist why should I discuss anything with them and what we want to do then today is to tie a
+						number of things together because our objective is to let people know that our intention is to
+						carry on where our patron saint brother Malcolm X started us we are going to internationalize
+						our struggle we are going to internationalize internationalize our struggles from the Fiji
+						Islands through Malaya through Vietnam through China through Africa through Asia through Latin
+						America and to the Middle East through the Caribbean we are going to internationalize our
+						struggle because we're fighting an international capitalistic and racist system we want to
+						discuss today self-condemnation we want to discuss today definitions who have imposed them how
+						they exist we want to discuss today cultural integrity and cultural imposition we want to
+						discuss today violence as it will become necessary for us to make white people's discussion of
+						violence irrelevant to our struggle we want to move on to talk about law and order we want to
+						talk about justice we want to talk about the standards of living around the world we want to
+						talk about the white liberal as we view him not as he views himself we want to talk about the
+						importance of guerrilla warfare as a means to attaining our ends we want to talk finally of the
+						need of colored peoples around the world to come together and save our very humanity that is
+						what we want to talk about now then the white philosophers the white existentialist philosophers
+						Camus and Sartre who cop out they cop out on the question raise the question about self
+						condemnation is it possible they ask for a man to condemn himself they never answer the question
+						even Sartre you know cops out because he writes the introduction for my other patron saint
+						Frantz Fanon in the Wretched of the Earth and after three pages of the most hostile condemnation
+						of white Western society that I have ever seen he said but we can be saved if we listen to this
+						prophet which is clearly nonsensical because if a man were to condemn himself he must impose his
+						own punishment upon himself he must punish himself and therefore become his own executioner that
+						is impossible because people are not going to commit suicide that easily and if in fact white
+						Western society wherever to sit down by itself and to analyze the crimes they have committed
+						against the peoples of the world they would have to commit suicide that would be the best thing
+						they could do for the world today so that it is crystal clear that they're not about to condemn
+						themselves they are going to rationalize away their guilt that rationalization will be at the
+						expense of the people in the Third World we cannot allow their rationalization at our expense if
+						there is a condemnation to become about the condemnation will come from the victims we are the
+						victims we will condemn we will impose the sentence and that is what we must begin to understand
+						as we move white Western society is a Christian society they believe in the bible they ought to
+						read it very carefully so they say it says that the sins of one generation will follow the other
+						generations to come that's the bible their book now we want to move on from self-condemnation
+						the reason why that's important is because I think that a lot of Black people when I use the
+						word Black I use it very loosely I use it in equivalent to the Third World to the colored
+						peoples of the world the reason why white and Black is so sharp first in the United States is
+						because it is very sharply drawn in terms of the divisions that's occurring inside the United
+						States we see it sharply drawn around the world in terms of white Western society as opposed to
+						the peoples of the Third World that is the colored peoples who white Western society has
+						exploited when we use the word white Western society we speak of England we speak of the United
+						States we speak of France we speak of Germany and we speak of Russia and when we use the word
+						white we do not so much talk about the color of the skin as we talk more about the ideology that
+						white people happen to be trapped in unfortunately for most white people the color of the skin
+						is the basis from which they react and begin to move to intellectualize around the questions of
+						the struggles in the world that is their problem not ours we should not accept it let them solve
+						it we have other work to do very very important we want to talk about definitions because I
+						think that has been our trap as people of the Third world we have never been able to define
+						anything all the definitions have come from white Western society they have been imposed upon us
+						and we have accepted them that has been one of our biggest downfalls the white man says when we
+						were reading in college we read the history of Western civilization we never even questioned we
+						thought they were really civilized we never questioned what it should read is the history of
+						Western barbarianism because they have been barbaric they have been barbaric but because we
+						accepted that they were civilized we accepted the opposite of that that everybody else was
+						uncivilized and since we came from every place else we were uncivilized we developed in our
+						minds hatred of ourselves hatred of our cultures hatred of our people and we tried to imitate
+						white Western society because we wanted to be civilized it's getting hot it's cause we draw heat
+						what white Western society was able to do was to define for the whole world not only what is
+						civilized and what is not civilized but to define the very births of people wherever they are
+						whenever you read a book of history nothing begins until the white man discovers it and what the
+						white man was saying to us was that all people who are not white are non-existent until we come
+						into contact with them that's precisely what he was saying and that any time a white youth
+						repeated that statement he was being inculcated with his own racism which he was incapable of
+						understanding isn't it racist for a white man to say that Marco Polo founded China when the
+						Chinese were flourishing with a civilization the white men were in caves in caves isn't it
+						absurd for them to say that Columbus discovered America when Columbus got there he found people
+						there in addition to that Columbus was an ignorant white man he was so stupid he called the West
+						Indies West and the United States East and said he was in India and named an entire tribe of
+						people Indians and one of the Caribbean we did not wake up until so Walter Raleigh came along
+						and discovered us and all of our history begins when a white man comes along and says poof I
+						have discovered you come alive Black land so that one of the greatest fights that the people of
+						the Third World are fighting today is a fight to write history the way it's been written the
+						correct way and to destroy the lies that the white man has told about history that was the
+						biggest fight the fight of the people of the Third World today is to recognize that the white
+						man invented little but lied about everything the Chinese first discovered gun powder not the
+						white man the Chinese were civilized people they never developed gunpowder as a means to
+						conquering other people they left it alone it was the white man who used it as a force to
+						conquer other peoples around the world around the world very very important a current example
+						one which is very relevant to me do you remember in World War II when Winston Churchill got up
+						and read his poem about if we must die urging all of the English people to take up arms against
+						Germany if we must die oh let us nobly die and everybody went to a fever pitch did you know that
+						poem was written by a Black man from Jamaica named Claude McKay and did you know that Claude
+						McKay wrote that poem for us but they have co-opted everything we have used it for themselves
+						and then given it back to us they have legitimatized our culture and that is what we must fight
+						we must legitimatize our own cultures wherever they may be that is very very important the white
+						man's definitions is what we find ourselves trapped by his definitions of what is good and what
+						is bad his definitions of what is reasonable and what is unreasonable his definitions of what is
+						savagery and what is not savagery and that is perhaps where we've really been trapped because
+						the white man has been suddenly making us hate ourselves I was surprised when I looked at
+						television in England just the other day and saw a movie of Bwana still running around Africa
+						giving orders to little picaninnies would think that even in 1967 the dumb white man in England
+						would come to realize that that's nonsensical the days of Tarzan are over understand the Tarzan
+						concept because it's very important to us we were made to cheer for a white man to beat up our
+						ancestors very very important we went to the movies and cheered for our white man Tarzan to beat
+						up our people and what was Tarzan saying they were saying to us that Tarzan who is a white man
+						and because he's white therefore superior can come to our environment understand it better than
+						we whenever our tribes had an argument with anybody or with the elephants we went to Tarzan to
+						come and settle the strife you must understand that syndrome because so subtle was it that we
+						did not even recognize it and we did not rebel whenever they showed Tarzan we should have burnt
+						the movie house down to the ground to the ground but rather than rebel we accepted we cheered
+						and we wanted all of us to be Tarzans all of us wanted to be a Tarzan today brothers and sisters
+						when Tarzan comes on the movie you yell for the Black people of Africa to come together and beat
+						the hell out that white man and send him back to Europe where he belongs and analyze if you will
+						Tarzan here we were identifying with an ignorant white man he couldn't even speak English
+						ohohohohohohoho and here we were yelling for Tarzan here Tarzan is swinging on vines while Dr.
+						Nkrumah was flying around the world in his own jet airline so that our fight today in one of the
+						most important fights is the fight for the freedom of the minds of our people we are fighting
+						for the minds of our people wherever we are that we are fighting to get the minds of the people
+						away from the white man because once he has their mind he has them hook line and sink line and
+						sink and that our war today must be waged on many fronts the most important front is the front
+						of propaganda understand today that the communication system which is the most important front
+						for propaganda is controlled by the white man the news you get about African Americans
+						struggling in the United States come to you through the BBC the news that we get about you comes
+						to us through NBC the news that everybody gets about China and the Red Guards come to us through
+						AP UPI and WPI the news that you get about Africa about Zimbabwe about the Congo about Nigeria
+						about Tanzania comes to you from a white newspaper and for you to believe the nonsense that
+						these newspapers are objective is for you to believe the distorted history that the white man
+						has been teaching you for so many centuries those newspaper clippings are neither objective nor
+						are they true they are downright lies aimed to maintain a system of white supremacy wherever
+						they are notice the lines they begin with the Congo is reverting back to jungles the savages are
+						eating up white people now before we move on I just want to give a little parody paro... little
+						tale that I learned about savages from a friend of mine an African brother he said that in World
+						War II there was a white major in the RAF who had been to Oxford and Cambridge very scholarly
+						man and he'd been fighting in the war his plane was shot down in africa when his plane was shot
+						down African tribe who were around where the plane was coming down had never seen a white
+						parachute they thought it was a white bird and when this thing came sailing down they all ran
+						with their spears to see what it was when they got close to it they saw that it was a man just
+						like them except that he was colorless the Africans assumed that he was colorless because he'd
+						been unconscious and the blood must have run out of his face so they picked him up and took him
+						to their tent and they took care of him after about a week or so the major began to move around
+						but his color would not come back after a month they reached the point where they could
+						communicate with each other so on the day when they were going to find questions the African
+						president invited all of his dignitaries with their their dress to come and to talk with the
+						colorless man who are you ask the Africans well I'm colonel uh Churchill he said and um well
+						what are you doing they said he said well I'm come from England and we're involved in a war
+						you're a warrior yes oh well the Africans jumped up and down that's very good cause they were
+						also a warrior tribe they were called cannibals by the white man but they were warriors so they
+						understood that well how is it going is your team winning or losing the Africans said oh we're
+						winning said the colonel we are winning and he had all these medals and they asked what are all
+						these badges he said these are medals for me myself I alone have killed 30 of the enemy you have
+						killed 30 of the enemy by yourself single-handedly exclaimed the Africans yes yes he said they
+						threw their spears in the air they threw their shields in the air they jumped up and down what a
+						feast you must have had my good man what a feast you must have had but the English major since
+						he was civilized jumped back and snorted out of his nostrils my good man I am from England we
+						are civilized where I come from I am an Oxford graduate a graduate of Cambridge I represent the
+						epitome of civilization we do not eat people where I come from the Africans looked very puzzled
+						and said why the hell do you kill them so that what has happened is that the white man has been
+						able to define savagery savagery are those who kill and eat but those who kill and leave alone
+						are not savages they're civilized so that what we must see in our minds is that while there may
+						be problems of all humanity in achieving a way to live together the white man has no monopoly on
+						being civilized he is uncivilized very very important concept we want to go on and just show how
+						that works see the white man is the oppressor no one can deny that but what he does is that he
+						never says he is the oppressor what he says for example if he's oppressing Zimbabwe if he's
+						oppressing Malaya if he's oppressing Guinea if he's oppressing Guyana he says that you're not
+						ready for your democracy yet and he says that when the time come we will give it to you he has
+						his throat around the necks of the people in Aden and he says by 1970 we will remove our hands
+						from around your throat and no one ever challenges the concept because what white West then says
+						is that they have the god-given right to give peoples around their world their freedom that is
+						not true every man woman and child is born free they are enslaved by oppressors the only job of
+						the oppressor is not to give freedom but to stop oppressing stop oppressing and you must
+						understand that concept because you run around talking about we are going to get our
+						independence instead of we are going to stop oppression and what the white man has worked a
+						trick on the entire Third World talking about he is giving everybody the independence instead of
+						everybody stopping the oppression of the white man we must define for ourselves and as we move
+						we must be crystal clear in our definitions we cannot make any mistakes today we are playing
+						with the lies of all of our peoples we will not let the white man define he is an oppressor we
+						must stop his oppression he cannot give anybody their freedom he must stop oppressing them once
+						you move once you move from the major assumption that the white man was oppressing rather than
+						giving the freedom then you begin to recognize that when one moves to stop oppression it is
+						justifiable to use any means necessary but if you do not move from that assumption you move from
+						the assumption that the white man is giving you something if he's giving you something then you
+						must take it on the strings that he attaches to you because he's giving it to you so when he
+						says I am giving you your independence if you act like nice boys and girls shine my shoes and
+						jump when I say jump I will give you my freedom but if you say you can't give it to me you've
+						been oppressing me you just go for it anyway that's very important our assumptions must be
+						different from the assumptions of white Western society they cannot be the same they cannot be
+						the same now in relationship to that in relationship to that what the white man has done is that
+						he is imposed his culture on everybody wherever he has gone wherever he has gone if in fact a
+						few Africans a few Chinese a few Indians a few people from the West Indies come to England they
+						adapt the cultural patterns and life institutions of the people of England why is it when the
+						white man goes to another country instead of adopting the cultural patterns and life
+						institutions of those given people he imposes his own upon them why is it that in Africa today
+						Africans speak French Dutch and English if the white man went there to settle he would be
+						speaking Swahili Ibo or whatever the tribes of those people were if he did not think that he
+						himself were superior he would have accepted the cultures of other people but because because of
+						his subconscious racism he imposed his culture on everybody around the world in Puerto Rico
+						today English is taught for three years Spanish for two in Tanzania up to a year ago English was
+						taught in high school they could not speak Swahili the reason was because the white man had a
+						game it was called English he invented it it was his game it's called language if you wanted
+						independence you had to play his game you can't play and win a game when somebody invents the
+						rules I would like to play cards with you if you let me invent the rules if I say every time I
+						have a card full of hands I win you'll never win and if you start to win and I own the cards
+						I'll pick them up and go home so that we cannot play the games according to the rules of the
+						white man we must define the rules for ourselves and we have no responsibility to anyone once we
+						begin to define our own rules because what else the white man has done is that through that he
+						has imposed the criterion for beauty around the world today beauty is that which is white is
+						what the white man says it is a white woman with stringy hair with eyes skinny nose and thin
+						lips that is beauty and all of the women of the world are trying their best to imitate that
+						nonsense disrupting their own natural beauty their own natural beauty Iwas shocked when I found
+						out the Japanese women as beautiful as they were were going on undergoing operations to make
+						their eyes round isn't that disgusting I am shocked every day by Black women around the world
+						who disrupt the beauty of their hair putting a hot comb in it trying to look like a white woman
+						I'm thoroughly disgusted and that disgust comes again from the fact that the white man thinks
+						that he can impose the criterion for beauty and what we must all begin to say around the world
+						be we Chinese be we Indians be we Blacks from Africa we are made in the concept of whatever we
+						are the texture of our hair the breadth of our nostrils the thickness of our lips that is what
+						we are that is our color and we are beautiful in that image beautiful in that image and until we
+						begin to do that we will not begin to recognize our struggles we cannot imitate the West we must
+						seek to create a new society for our peoples wherever they are we cannot imitate the West we
+						must seek to create a new societies based on humanity for our people we cannot imitate the West
+						to imitate the West is to drop an atomic bomb on Hiroshima and Nagasaki we cannot imitate the
+						West to imitate the West is to invade Aden to invade Malaya to invade Zimbabwe to invade Vietnam
+						to invade all over the world we cannot imitate the West we must reject the West and all of its
+						concept we must create for our peoples around the world we must reject the West what has
+						happened to the colored peoples around the world is that the West has divided us played us
+						against each other and taking away the concept of peoplehood from us notice how white people
+						have a concept of peoplehood and motherland if a white man lives for 90 years in Azania which is
+						what they call South Africa he is still an Englishman he is still an Englishman if a white man
+						is living in China he is still an Englishman a Frenchman or an American but take a people of
+						color out of their country and they become nothing Jewish people live all around the world but
+						they are Jews some of them have never stepped foot on Israel but Israel is their country and if
+						you touch Israel the Jews around the world are going to come to the support of Israel but the
+						people of colors do not have a concept of peoplehood because it has been maliciously and
+						willfully destroyed by the white West so that you can sit in your motherland England while she
+						exploits Guyana while she exploits Trinidad while she exploits Malaya while she exploits
+						Zimbabwe while she exploits Nigeria while she exploits the whole Third World and no one raises a
+						fuss I don't know how much they bought Aden for I know they paid 24 dollars for Manhattan from
+						the Indians with some beads that is because the people of color were never concerned with
+						material wealth we were just people who were concerned with moving along as we were and whenever
+						white people came along because we believed in humanity we let him do all of this nonsense we
+						never knew about ownership of land that was the white man's concept and he bought everything and
+						all he has a bunch of papers to say he owns them the white man does not own land God did not
+						give it to him land is there for the peoples of the world he can't take it can't take it so you
+						don't discuss that what is going on in the world today is the fight to recover the land that the
+						white man says he owns very very important and notice the same trick in India today I am
+						appalled by the discussion around the world of the world being overpopulated there is enough
+						food in the world to feed everybody there is enough food to feed everybody the question of
+						overpopulation only arises with the colored peoples of the world that is because the white man
+						does not want the numbers to rise any higher and look at the disgusting trick that he pulls a
+						transistor radio for sterilization look at the tricks he pulls a transistor radio for
+						sterilization but he's not a violent man he says when you talk about violence there are many
+						forms that it takes Mao says politics is war without violence he continues war is politics with
+						violence we are fighting political warfare around the world some of it has become war most of it
+						is still in the political stages if the West continues to oppress people all of it will become
+						war that question is not to resolve ironically by the peoples of the Third World it is to
+						resolve by the white West if they're willing to stop oppressing people there will be no violence
+						if they do not we are going to throw them off our backs by any means necessary will not discuss
+						it the most violent thing that the white man could have done to us was to drug us to sleep so we
+						would not even fight back notice the similarity between the Jews and the Germans they talk about
+						what the Germans did to the Jews and the most awful thing they could do was to dehumanize the
+						Jews to the positions where they did not fight back they have done the same thing to all of us
+						they have dehumanized us to the level where we do not even rebel we accept that which they shove
+						down our throats so that when they talk about violence do not get caught up the most violent
+						thing to do is to sterilize a human being for a transistor radio do you know how disgusting that
+						is to stop another human being from producing another human being for a goddamn radio and the
+						white man doesn't say that that's violent it's quite all right as a matter of fact after all the
+						world is being populated we have to stop it they're hungry in India and they're uncivilized and
+						they're running over each other if they could control the resources of their country they could
+						feed their peoples they cannot control the resources of their country because the West takes it
+						for itself and allows the rest of its populace to live at a standard of living at the expense of
+						the people of India and the rest of the world the white working class is having a lot of profit
+						while the Indians are getting transistor radios I want to talk a little about the standard of
+						living because standard of living today is relative unfortunately it is relative to the white
+						man while it is true that most of the colored peoples who inhabit London today get a better
+						standard of living than they had from the islands where they came the standard of living which
+						they enjoy in England compared to the standards of living of the white man is abominable and it
+						is even more abominable because they enjoy the standard of living off of the sweats of your
+						brothers and sisters in the very countries which you left so that when the white man talks about
+						standard of living how you're better off here than you were in Africa or in the West Indies
+						they're better off because of the sweat of the peoples in the West Indies and Africa and that's
+						what you must understand and that people who should be fighting to stop that most are the
+						colored peoples inside of England if you began to judge it that way rather to say yes when I
+						lived in Trinidad I lived in a shack now I live in a three-room apartment with seven children
+						you would wipe out that nonsense to say while I live in a room with seven children the white man
+						lives across the street in a big house five rooms and two children you will begin to understand
+						where you're moving you judge the standard of living it is relative it is relative it is not
+						absolute in the United States of America most families are moving to have two cars two cars two
+						cars in India in Africa in Asia people can't even buy bicycles is it fair for the white
+						population of the United States to have two cars while the rest of the world can't get bicycles
+						especially since she controls the resources of the rest of the world which do not even exist
+						inside her continental borders who is she kidding who does the white man think is listening to
+						him any longer his platitudes have turned in his lips no one is listening to him anymore we have
+						different drummers we are listening to new people and they're coming from the Third World we're
+						listening to the Malcolm Xs we're listening to the Che Guevaras we're listening to the Frantz
+						Fanons we're listening we're listening to the Mao Tse Tungs that's who we're listening to yes
+						we're listening to the John Pokelas that's who we're listening to that's who we're listening to
+						we're no longer listening to Rudyard Kipling to Hobbes and to all of that nonsense they are as
+						sterile as is their writings very important we must then begin to talk about the white liberal
+						in relationship to the struggles of the Third World as we see it from our point of view not from
+						their point of view and from our assumptions not from their assumptions now before we begin we
+						must differentiate between two types of racism around the world one is institutionalized racism
+						the other is individual acts of racism and they're very very important an individual act of
+						racism would be uh five white policemen beating an African student to death in North London
+						that's an individual act and everybody rises and up in arms Black and White especially the white
+						liberals and they say what a horrible thing that is horrible horrible that this is that or
+						another act would be a 150 white savages stoning the house of a Black man see and everybody says
+						what a horrible thing that is and when they go to court the judge calls it a family squabble and
+						just fines the white men a few dollars that's individual acts that's what the white liberal
+						would have you focus your attention on because that's individually and he can cop out
+						individually because he says well see I don't do that to you and if you focus your attention on
+						individual racism you will be caught in a trap we must focus our attention on institutionalized
+						racism institutionalized racism is when you pick up a newspaper in London and it says for
+						colored only not for colored that is institutionalized racism because what that means is that
+						the entire white society is suppressing the people of color and the white liberal cannot opt out
+						if you point out to him individual institutionalized racism he cannot opt out he can only cop
+						out if you get caught in his trick bag about individual racism well I don't kill any of you well
+						that may be true but while you don't the rest of your society is killing me then you put him
+						into a position where he must clearly make a choice either against his society for you or with
+						his society against you that's what we must do more and more around the world today we must do
+						it individual acts of racism would be a white man named Cecil Rhodes getting up and yelling that
+						white culture is the only culture that would be individual racism all the whites will say well
+						you shouldn't have done that but institutionalized racism is a dirty filthy murdering white man
+						named Cecil Rhodes taking Zimbawe giving it his name and stealing the diamonds from that area
+						that is institutionalized racism that is institutionalized and we must force them if they say
+						they are friends to take a position on Zimbabwe because if you take a position you can't talk
+						about sanctions you must talk about overthrowing white power that is where we must put them if
+						they are going to in fact become our friends because the white liberal comes with his
+						subconscious racism which he does not recognize and when he's confronted with it he acts like
+						the savage that the rest of his society is he yells at us rather than attacking the society
+						which has produced that racism he finds himself incapable of condemning it so he condemns us why
+						do you think the white liberals talk about Black violence that's all they talk about now it’s a
+						new thing it’s their new phase white Black violence can they ever condemn white violence have
+						you ever heard them say about the violence in India where you sterilize somebody for a
+						transistor radio did they raise their voices against it do they raise their voices against
+						Malaya do they raise their voices against Aden do they raise their voices against Hong Kong do
+						they raise their voices against Zimbabwe but let a Black man pick up a gun and the whole white
+						liberal structure comes down on that one Black man one Black man and that is clearly because
+						they're incapable of it but now there is and see that's why I say you can't afford to make any
+						alliances with them but there is another reason and this hits them hard is cause they're all
+						Marxist according to their interpretation of it yes and what they say is on economic reasons
+						I'll tell you why you can't align with a white liberal all of the white liberals that I know are
+						rich enough to be white liberals that is to say that the white liberal enjoys a position of
+						economic security from the system in which they live that very system produces a position of
+						economic insecurity for the colored peoples of the world understand that you must begin to
+						understand that because what you say to them is will they fight to smash the very system which
+						produces economic security for them will they fight for it we must fight to smash that system
+						because it produces economic insecurity for us you tell me in any Marxist doctrine where the
+						economic secure joined hands with the economic insecure to form a revolution and it is because
+						of that that the white liberal becomes irrelevant in the struggle and must become irrelevant in
+						our struggle must become irrelevant in our struggle they are always talking about the white
+						working class in the West which I have not yet seen and the reason you have not seen it and will
+						not see it is because the white working class is part of the system that oppresses the Third
+						World the white working class enjoys the profits of their capitalist brothers shares in that
+						profit and keeps their mouth shut and that is why you have no revolutionary consciousness among
+						the so-called white working class when they begin to suffer the way we suffer then you will have
+						a revolutionary consciousness but they do not suffer because we are doing all the suffering very
+						very important very very important look at all your labor parties in England and the United
+						States they have stocks and ownership in all the capitalistic structures around the world you
+						don't expect the labor union in the United States to come out against the war in Vietnam if it
+						weren't for the war in Vietnam they'd be starving they must support the war in Vietnam we must
+						come out against it because it's against our brothers in Vietnam and because that structure is
+						also oppressing us [Applause] then what we have to do as the peoples of the Third World today is
+						to begin to come together what the West did was to use our color as his reason for suppressing
+						and oppressing us what we must do is use our color as the reason for coming together and
+						stopping that oppression unless we begin to recognize the need to come together and to pit aside
+						the petty differences that the white West plays upon we will be doomed in Guyana you have
+						Indians fighting Blacks in Malaya you have Chinese fighting Indians in the West Indies you have
+						Chinese fighting Indians fighting Blacks in Africa you have everybody fighting everybody else
+						and the white man is sitting on top with a cigar in his mouth unless we begin to come together
+						and organize ourselves for the struggle that we're about to wage we will be doomed we cannot any
+						longer accept the disunity that the white man has sown in us from the Fiji Islands to the
+						Caribbeans we cannot longer accept it if we do not have the same common culture if we do not
+						have the same common goals if we do not have the same common ideals we have the same common
+						enemy and that alone should be reason to unite us so we can defeat the enemy and get on to the
+						business of hand which was disrupted so many centuries ago when the white man started his
+						nonsense we must come back together and move humanity on it has been disrupted for too long we
+						must begin to unify we must begin to unite we cannot let the differences keep us apart that the
+						white man has played on we must begin to see that the struggles in Vietnam that the struggles in
+						Aden that the struggles of the Blacks in the United States that the struggles of the Africans
+						that the struggles of the Chinese that the struggles of the Latin Americans are our struggle and
+						we are part and parcel of them we must begin to see that we must begin to understand that the
+						bombs that are dropping in Vietnam today will tomorrow be dropping in South Africa in India and
+						in Latin America even if we didn't want Vietnam to be part of us part of us if we didn't want
+						Indians to be part of us if we didn't want Chinese to be part of us if we didn't want Blacks to
+						be part of us if we didn't want people from Pakistan to be part of us we must make them part of
+						us for our very survival for our very survival we must make them part of us that is what we have
+						to do we must begin to recognize that our peoples have a place in the sun that that place in the
+						sun had been stolen and robbed from them by the West it is the job of all of us today especially
+						the young bloods in the younger generation around the world to come together and to restore our
+						people in the place where they belong and to put the white man back in his place where he
+						belongs just like another man the white man has been playing God for centuries and the reason
+						he's played God for centuries is because we've let him it's time for us to tell him that play
+						time is over it's time for us to let him know that we will no longer tolerate his nonsense it is
+						time for us to let him know that we are forging together for our struggle for humanity and every
+						time he touches one of the peoples in the Third World he's gonna go to war with all of us
+						wherever we are that's what we have to tell them that's what we have to tell them we have to
+						tell the white man that when his CIA and his MI 15 or whatever the hell it is overthrows a
+						government in Ghana then he's got to fight all of us wherever we are we have got to let him know
+						that we have got to let the West know that when they drop a bomb in Vietnam if we don't have
+						bombs we will burn down their factories wherever they are that's what we've got to let them know
+						we have got to forge such a unity of the Third World and such an organization so tight that we
+						will let him know that it's impossible for him to oppress any man wherever he is because the
+						rest of us must keep our eyes on him and we must become real and political indeed in our essence
+						of bringing Western societies to its knees and into its rightful position like any other man
+						until we do that we are lost if there's any message then that we can bring to you today is that
+						inside the United States the African American communities have come to a position of
+						revolutionary consciousness where we recognize that our struggles is not with the struggles of
+						the United States but with the struggles of the peoples of the Third World we have come to tell
+						you that we will not lift a gun to fight in any of their racist wars we will lift guns to fight
+						against them because we are inside their bowels we have come to tell you today that we're on the
+						way for our liberation inside the United States we are not talking we have talked for 400 years
+						it has gotten us nowhere nowhere we are not going to talk anymore and that if we are to be
+						squashed in the United States our only act to save humanity is to bring the entire country down
+						and that we're willing to do that we've come to explain to you that no matter what the shades of
+						your color are if you are non-white you are in the same boat that the rest of us are therefore
+						you had better come on home you would better come on home we have come to tell you that the
+						revolutionary consciousness that is spreading in the Third World today will not only be based on
+						skin color but on ideology Tshombe is a white man he will be destroyed you had better come on
+						home had better come on home we have come to tell you that if you see your lot and your culture
+						being thrown with that of England then we see you as part of England who suppresses and
+						oppresses us you will be with England when the lines are drawn you had better come on home home
+						we have come to tell you that we're waging our liberation struggle in the United States today
+						and we will wage it with our brothers in Latin America like Fidel Castro with our brothers
+						around the world you had better come on home we have come finally to tell you that individualism
+						is a luxury that the peoples of the Third World cannot afford you had better come on home home
+						[Applause] and finally we have come to tell you that it is not love it is not morality nor is it
+						non-violence that runs the world it is power we are fighting to redistribute the power in the
+						world the way it should be that people should determine their own lives for themselves you had
+						better come on home we have finally come to tell you that when our lives are not worth much
+						wherever we go we are willing because we know that though we be killed there will be Black
+						people around the world who are coming together and will continue the fight cause we are going
+						to win thank you</p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/58927582">
+							<forename>Roy</forename>
+							<surname>Sawh</surname>
+						</persName>
+					</speaker>
+					<p>Ladies and Gentlemen I'm sure we have appreciated what our brother has said but we have also got
+						a very young Black boy Winston who is from England and after listening to him maybe you can
+						judge for yourself the trend of thinking of young colored people in this country today</p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/47645604">
+							<forename>Winston</forename>
+							<surname>Branch</surname>
+						</persName>
+					</speaker>
+					<p>today my brothers it is indeed a great pleasure for me to be on the platform here to stand beside
+						my Black brother brother Carmich Stokely Carmichael and it is also I thank you for coming up but
+						I see on your faces the enthusiasm to build a new world of Black power but before you go on my
+						brothers there is one thing I must let you quite uh make you aware of what Black Black power
+						means because when people like Mr. Carmichael can no longer participate in this country we the
+						Black brothers of this country must get together and unite by this I mean my job in the Black
+						youth struggle in Britain is to go to your ghettoes and try to bring you to see the light where
+						the white man has deceived you it is not easy a task for me because we have in our Black
+						communities so long been indoctrinated with the white ideology that when a Black man like
+						yourself comes in to tell you where you have been led astray you turn and want to fight him my
+						brothers my job is to go around the country with brother Roy and brother Malcolm organizing and
+						getting more Black people to attend our meetings to tell you more about your heritage we want
+						you first to find yourself and then when you have found yourself you can begin to realize the
+						problem which the Black man faces all over the world it is no good to get steamed up in this
+						room and when you go home tomorrow you are taken into the pub and drink with your white friend I
+						do not say do not drink with your white friend but I say once you drink you must watch him
+						because he might add arsenic to your drink and intoxicate you when my brothers from America came
+						here all what I read in the newspapers were racialists every time a Black man comes to his
+						people and tries to show them where the white man has been leading them astray the white man
+						turns round and says to his Black fellow men this man is is a danger he is a threat to you he is
+						a threat for what you are fighting for but he never tells you what you're fighting for whenever
+						you try to get together he tells you you are afraid to your other Black people you see my
+						brothers the thing we forget when we come to this country admittedly most of us get an
+						opportunity to better ourselves but the moment we start going up into this world we forget the
+						real essential need which is the need not only of the individual but the need of the Black man
+						all over the world this is the need my brothers our slogan in the young Black struggle in
+						Britain today it is the cause is greater than the individual needs but I know you tell me if I
+						asked you all to go and strike tomorrow you'll say well how the hell am I going to pay my rent
+						because this other Black man like myself is not going to understand anything but he's four
+						pounds for his stinking little room but the reason why he will not understand is because we have
+						never tried to help him understand you see the thing with us in Britain all our efforts and
+						energy are detracted towards America they tell us in the newspaper that our Black brothers are
+						revolting against the white man but they do not explain to us why he is revolting they tell us
+						that we in Britain today are living much happier than the Black man in America but I will tell
+						you something my brother we are not we the Black men of Britain are dead simply because we are
+						not in tune with ourselves we are living without knowing what goes on the Black man in the Afro
+						Asian in America has become aware of this because of the good work that so many of our Black
+						brothers have pledged their lives for like the late brother Malcolm X you see my brother unless
+						we get together and forget our little differences and settle the great urgencies we are licked
+						according to the English usage that means because whenever a Black man tries to tell another
+						Black man what the evils which the white man has done to him because the white man has
+						indoctrinated him in a white philosophy he cannot see that the great issue lies no matter how
+						hard he tries to imitate the white man to be accepted to get a job to get his children educated
+						you see my brother we the young ones today will be the men of tomorrow and unless we do not help
+						and not put our heads together our brothers lives are in vain the struggle is no longer
+						necessary we might as well sit down you know because the white man keeps telling us for 400
+						years to wait what are we waiting for we are never ready we will never be ready in the eyes of
+						the white man he never tells us when we go to school about the heritage of our Black people he
+						tells us that our Black people are savages but the true savage is the Barbarian he is the savage
+						he does not tell us that we have something to be proud of and this something to be proud of is
+						our Blackness whenever a Black man starts to talk about Blackness people say that he is
+						advocating racialism people say the white man then I mean by people and a few Uncle Toms who are
+						in the audience but nevertheless well my brother I do not want to take all your time because I
+						know you have lots of questions you want to clarify in your mind I will be coming to your
+						ghettoes and try and help as much as I can but my help is in vain if you do not reciprocate with
+						me when I come to your Black ghettoes I want to see your Black faces because if your Black faces
+						aren't there my head is going to be beaten in so I need your support because my brother white
+						men are lynching Black men in this country but you never hear of it every time a Black man
+						retaliates they say he is a racialist but uh does he know there baby hang on I'm coming I'm
+						coming right now I want to thank on behalf of this committee all my Black brothers all over the
+						world who have come here to make this meeting possible and when brother Roy and brother Malcolm
+						goes out to help you my job is to get into this community and tell you about these meetings
+						because these gentlemen are wasting their times and their money out of their own pockets because
+						Black people do not like dipping into their pockets to help Black people so we waste our time if
+						you do not turn up to the meeting my job is to get into the community about two days before and
+						tell you about it and hope and remind you that you do not sleep and forget the day because every
+						time Black people want to come somewhere the first thing they say is their free drinks is their
+						transportation this is the bad thing we have among ourselves but I hope after hearing the
+						inspiring talk by brother Stokely Carmichael and by brother Roy you will start thinking about
+						your Blackness because this is the thing that the white man always throws in our face we are
+						Black remember baby the cause is greater than the individual need I'm coming hang on baby I'm
+						coming </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/21793332">
+							<forename>Michael</forename>
+							<surname>de Freitas</surname>
+						</persName>
+					</speaker>
+					<p>that was Winston before before we start with any question games there are two announcements one
+						is from Mr. John La Rose the other is from Phil Epstein in relation to the Dialectics John La
+						Rose </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/116332393">
+							<forename>John</forename>
+							<surname>La Rose</surname>
+						</persName>
+					</speaker>
+					<p>on Wednesday Wednesday will be the 26th of July that means that Wednesday is going to be the 14th
+						anniversary of the assault on Moncada in Cuba in this congress there will be a special program
+						the special program will include a Cuban writer who is present here today with us Edmundo
+						Desnoes please in addition there will be readings poetry readings by certain Caribbean poets
+						there will be Edward Brathwaite the author of Rights of Passage Andrew Salkey and myself John La
+						Rose in addition to other poets who will be participating in this program after that you will
+						have some films about the Cuban Revolution so Wednesday the 14th anniversary of Moncada the
+						assault which changed Latin American history and has is changing modern history we shall have
+						this program here for you we expect you to attend and we would like you to come along Edmundo
+						Desnoes will also say a few words to you right now the program will be here at the Roundhouse
+						I'm very sorry I didn't say this the time is 7:15 the program starts the program will be here at
+						the Roundhouse Wednesday night 26 July and it will be here at the Roundhouse come along and
+						bring your friends I shall now pass you on to Edmundo Desnoes the Cuban writer </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/47876054">
+							<forename>Edmundo</forename>
+							<surname>Desnoes</surname>
+						</persName>
+					</speaker>
+					<p>the white man is dead in me it is not dead due to any psychological operation or mystical
+						experience it is dead because I've lived through a revolution and I'm living through a
+						revolution the Cuban Revolution a revolution that came about a revolution that came about by
+						means of a violent armed rebellion we have ceased to be a colony of the white Western world we
+						have become an independent nation of the Third World I I might look white Anglo-Saxon protestant
+						yet for the empire of the United States I am Black this is our hour we must turn the world on
+						its feet for the first time in history we are the majority of the world we are two-thirds of the
+						world and revolution in the Third world will put the world on its feet for the first time in
+						history the struggle now is called Vietnam it is called Ho Chi Minh it is called Black power it
+						is called Malcolm X and Stokely Carmichael </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName>
+							<forename>Philip</forename>
+							<surname>Epstein</surname>
+						</persName>
+					</speaker>
+					<p>uh before I make the few announcements that I have I just uh wanted to take up on a few points I
+						think we see where it's quite clear where where Stokely is and what his job is and what he's
+						doing I think we've this is demonstrated here the question is now you know how to continue on uh
+						from here from this point certainly in terms of the Dialectics and in terms of the quote white
+						liberals what does everyone do Stokely is clearly of the Third World how do we become part of
+						the Third World what do we have to do um I think that's a question that everyone has to wrestle
+						with and come up with the answer for themselves but again it's a question of perceiving what the
+						reality is I would just like to tell Stokely and some of the other people here uh of some means
+						of salvation or something that's happening in the States in Chicago that I know of although I'm
+						not a part of it but I know it it's existing and it's starting to happen and this is the uh
+						so-called poor white population in Chicago the Hillbillies from the South they are starting to
+						feel this thing also this revolutionary spirit and they're starting to realize uh just where
+						they're at and what the problem has been and there are uh again what people are calling riots or
+						outbreaks of violence among these people and this is with the younger people traditionally this
+						has been called uh like a delinquency problem it's a social disease except now it isn't because
+						these kids know where it's at and they're starting to organize along the same lines and they're
+						not concerned with making it a biracial scene because they know what it's been for them and
+						they're starting to do it and I think this is what everyone has to come to terms with their own
+						reality and if you're Black it's Black and if you're white it's white you have to get to the
+						roots of it and define yourself in that context because the third pardon yeah (interaction with
+						audience) currently there are there's some people walking around here with uh uh baskets for uh
+						contributions pardon okay </p>
+				</sp>
+				<sp>
+					<speaker>unknown</speaker>
+					<p>Ladies and Gentlemen I'd like to make an announcement those ladies that are walking around with
+						the bowls are here to collect to take up a collection and so we'd like everyone to give and if
+						you have any kind of power at all take it out of your pocket and put in that bowl cause we need
+						some bread now so turn aloose the money as everybody here uhm some of them are going out now but
+						if you'd like to uh give the donation you know drop it in the the ladies are not collecting
+						properly there's a gentleman that's going to drop a pound and get to him now thank you</p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/58927582">
+							<forename>Roy</forename>
+							<surname>Sawh</surname>
+						</persName>
+					</speaker>
+					<p>the point that was not mentioned was after Stokely and brother George came to London and we had a
+						series of long discussions we have decided to gather a group of young cadres who will be going
+						out to the West Indies to a different island and Guyana to preach and internationalize Black
+						power this meeting tonight has been called for the fundraising specifically of raising funds to
+						send the young cadres to the Caribbean our sisters will be coming around and we are asking you
+						to donate because every time you donate you are helping to free the Caribbean and you're also
+						helping to free the Third World from the West oppression you must realize and understand that if
+						we had a factory to produce ammunitions we would not need your money to buy guns we need money
+						not only to buy guns but we also need money to buy bullets because with the new race laws that
+						have been introduced in the United States and with the new law which is going to prevent our
+						Afro-American brothers from getting arms they have got to get the arms from somewhere we need
+						money to buy arms we are not begging for money for Oxfam see the trouble with this country is
+						they collected money in England for the people starving in India and in India we're collecting
+						money for the people starving in Ireland and in Ireland they're collecting money for the people
+						starving in Africa and in the West Indies we're collecting money for the people starving in
+						England this is erratic you know I am sure many of you from the West Indies when you were a
+						little boy and you were in school I'm sure you used to remember during the war when our teachers
+						used to tell us if you haven't got a shirt or a pants you're not using you must bring it to
+						school and we will send it to our brothers and sisters in England you know when I came to
+						Portobello market and I went down there I saw one of my shirts with my name on it that's the
+						kind of society we live in so Ladies and Gentlemen please give generously and I'm pretty sure
+						there are many of you who are long waiting to ask some questions in the meantime since we are in
+						England and one must adopt the culture of a country where one goes to many of you are accustomed
+						of the world's second helping so when our sisters comes around don't forget she's coming around
+						for the second helping in the meantime if there are any questions let us be brief and the more
+						brief you are the better you stand a chance of getting your questions answered </p>
+				</sp>
+			</div>
+			<div type="announcements">
+				<sp>
+					<speaker>
+						<persName>
+							<forename>Phil</forename>
+							<surname>Epstein</surname>
+						</persName>
+					</speaker>
+					<p>first question I uh just wanted uh to finish a few announcements there was a Black shoulder bag
+						ladies Black shoulder bag which was lost if anyone finds it return it to Leon Redler uh I also
+						wanted to announce that there is a uh happening this Saturday night here at the Roundhouse uh
+						July 29th at 9: 30 pm it is called it is a work of uh kinetic theater and it is called
+						Roundhouse it's uh being put uh uh being designed by uh Carolee Schneemann tickets were are on
+						sale at the back there by the hamburger stand and they're 10 bob and seven seven and six for
+						students uh they're also on sale at Better Books Indica Bookshop and Bookshop 85 uh I think uh
+						we're ready for questions now </p>
+				</sp>
+			</div>
+			<div type="questions_and_answers">
+				<sp>
+					<speaker>
+						<persName>
+							<forename>from Guyana</forename>
+							<surname>founding member SNCC Ram</surname>
+						</persName>
+					</speaker>
+					<p> briefly uh I think we have been all encouraged by this wonderful uh talk by our brother
+						Carmichael and so on I uhm personally want to to thank him for being what he is and uh I am very
+						pleased that we that in the United States the American Negro is in the vanguard of the struggle
+						now I remember in 1959 when I started calling myself ram at 125th and 7th avenue and going back
+						to Guyana in African robes when I was laughed at by my brethren in Guyana now I think that a new
+						we have me we've been we're in a new stage with a new consciousness and I think things are going
+						to change because we have begun to find ourselves to understand ourselves to understand what we
+						have got to do I remember uh Ted Jones here working with me in Greenwich Village he's one of the
+						leading American poets no one has mentioned about Ted but Ted has been in the struggle for a
+						long time we met in Greenwich Village and worked a lot among the beatniks brother Carmichael's
+						statement on the hippies I too uh want to see this thing move over from a rejection to a
+						rebellion open rebellion where they could happen many of us are pessimistic because Stokely is
+						also pessimistic now I want to ask uh I want Brother George here who is from SNCC or um Stokely
+						to give us an idea or give us um something on the transition of the SNCC movement from the
+						affairs of non-violence because you remember SNCC was student nonviolent I was one of the
+						original members of SNCC at Wilberforce uh that's in Ohio and I want George to tell us something
+						about or Stokely the transition how we came to realize that this non-violent thing doesn't work
+						that the man is going to stand on our heads with his guns and how we moved over from that stage
+						to the present stage where we are resisting with arms </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p>well yes I think first of all you have to understand what kind of a movement you're starting if
+						you call it a non-violent movement it means that you are raising primarily a moral question
+						which means that you are hoping that there are people who will look at that and feel sorry about
+						it and will help you which means that you are waging a movement which seeks to gain the sympathy
+						of the oppressor which seeks to gain the support of the oppressor the ironic thing about the
+						non-violent struggle is that you we were asking the oppressor to free us from our oppression
+						which is a contradiction in terms but as the movement evolved people began to think in concrete
+						power terms in terms of power relationships and we realized that no people had ever gained power
+						no people had ever rid themselves of their oppression until they had the power to wrestle that
+						oppression that to wrestle that power from the hands of the oppressor so it was this
+						evolutionary progress which led people in the United States to take the position Black people
+						that they are presently taking my question is we had enough talk about every revolution going
+						back to the history but I think we should start organizing taking people for training and
+						fighting with volunteers in south Vietnam and sending people for training in Cuba and try every
+						possible ways to win this war if once if once if once if we can topple the United States
+						government or change the government with the help of Mr. Stokely Carmichael and other
+						compatriots I think British government will crumble like a cake now I would I would like my
+						brother Stokely to give us one sense whether he will give us any lead how we can send these
+						volunteers and I've got more than 60 or 70 people waiting to fight for any freedom fight which
+						he chooses to be the right one and we will join him anytime I don't think that discussion should
+						be public but I I I do believe that we should begin to raise a revelry revolutionary
+						consciousness among the people so they can see that but when the actual business is taken care
+						of and that must be a very private meeting well I have listened to Stokely Carmichael well he
+						has been talking in terms of organizing the colored people in terms of Black power I would
+						suggest from my experience in Europe I am specializing in business now I'm coming hold on hold
+						on now would you tell me would you tell me today in Africa we have foreign banks controlled by
+						foreign powers now the African banks today we have competing the foreign banks are not very very
+						powerful now in America the Negroes have banks and businesses why can't the Negroes invest
+						capital in African banks to make them very powerful whereby we would be able to create a sort of
+						money market compelling our people to buy shares in our banks so that automatically whatever
+						profit our banks make in our country would be invested in our national economy so that our
+						people will have what is called purchasing power and what is your opinion could you give me your
+						opinion and ideas how to sort of get the American Negro businessmen to invest in Africa so that
+						our economy and our bank will become solid for expansion </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p>uh I think in answering the questions there's two things number one most of us who belong to the
+						Third World have been poisoned with a saying that our people can't do anything right wherever
+						we've been if it's been Black people Niggers can't do nothing right if it's been Indians Coolie
+						can't do nothing right and we've been poisoned with that what we have to begin to do is to
+						clarify people the beginning that they should have faith and they should have confidence in
+						their own people once we do that then we can begin to bridge the gap but secondly I also think
+						that what we're going to have to recognize is that the white banks have no business in Africa
+						they're going to have to be bombed down to the ground and there'll be no competition </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName>
+							<forename>unknown</forename>
+							<surname>student from West-Berlin</surname>
+						</persName>
+					</speaker>
+					<p>as I'm student of the Free University of West Berlin Carmichael spoke of the Tarzan films I think
+						what he said is right there is another film called Africa Addio the most fascist and racist film
+						I ever have seen in West Berlin they tried to show this film last year we uh that means student
+						movement students and their friends from the Third World moved in stopped the film destroyed the
+						screens and the seats so that there's no cinema owner dared to show this film for half a year
+						there then later on they say hey there's no step here uh later on they succeeded for they got a
+						lot of police there and so we couldn't enter a second time this racist film I saw today is shown
+						here in the very heart of London at Leicester Square if I lived in England I would I uh would
+						know what to do against it </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p>I think the question is more challenge to the people of London than it is to anybody else </p>
+				</sp>
+				<sp>
+					<speaker>unknown</speaker>
+					<p>will the Afro Americans eventually break away from the American state and form a separate state
+						of their own in America that's what I would like to know </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p>we're not quite sure for a number of reasons I think that one of the reasons that we are the
+						biggest threat to the United States of America is that we're inside her bowels and that means
+						that she cannot use an atomic bomb or a hydrogen bomb against us now what we've come to find out
+						about the United States is that she's a cowardly nation whenever she has to fight hand-to-hand
+						combat she loses and she calls that guerrilla warfare and what she says is guerrilla warfare is
+						a new type of warfare that's being fought in the jungle and we don't understand it so what they
+						do is they get their little young scared white boys to fly a plane and just drop bombs on people
+						because he can't see who he's killing and that way they can destroy villages now that's the
+						advantage we have over them they can't drop bombs on us cause we're in the heart of them our
+						fight with them is gonna be hand to hand combat guerrilla warfare and that's I think I think one
+						of the ways that we'll be able to bring them down is by not separating if we separate and took
+						two states then they can just bomb those two states very very important but if they decided to
+						bomb the ghettos of the United States they would have to bomb all of their states because in
+						every one of their states there's a ghetto and in every one of those ghettos there's a
+						revolutionary consciousness of armed resistance that has been developed by the Black people
+						inside those communities wood has just come true that we haven't got a lot of time left inside
+						of here and they want us out quite soon so could the questioners please make it questions and
+						not statements and all that please </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName>
+							<forename>unknown</forename>
+							<surname>unknown</surname>
+						</persName>
+					</speaker>
+					<p> Mr. Chairman I would like to know how Mr. Carmichael proposes to reconcile the objects of Black
+						power with the association with the war in Vietnam the association of the uh attitude of the of
+						Mao Tse Tung of Mao Tse Tungism the association of uh destroying the objectives and industrial
+						uh stability of the so-called white paths if we are to have we the Blacks a permanent link with
+						that which is ours an association with that which is not ours Asia Asia's domination of the
+						Blacks the Asians attitude to the Blacks and furthermore what has it got to do with us to fight
+						to liberate the people of Vietnam when we are ourselves </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p> I uh I uh now look one of the things we're going to have to understand is that some of us all of
+						us have been brain whitewashed all of us have been whitewashed and that some of us have been
+						through miracles been able to begin to wrestle with the problem of our whitewashing many of us
+						are still in the dark it's our problem to begin to help those who are in the dark and the best
+						way to do that is to try to understand and deal with their questions now I think Sir that I said
+						that although our aims our ideologies and our goals may not be the same we have the same common
+						enemy for us for us not to join hands with Asia is for us to do just what the white West wants
+						us to do to stay apart so that she can continue to dominate us she has told us that in the
+						history books she says Bismarck discovered it divide and conquer and she's divided and conquered
+						us around the world our problem now is to come together all of those peoples who have been
+						oppressed by the same satieties and begin to deal our common enemy one death blow from there on
+						we can begin to move to help develop our own cultures but for us to stay now and quibble about
+						the Asian's attitudes towards the Blacks would be absurd we don't have the power to fight Asia
+						even if we wanted to and while we were fighting Asia the white West would just sit up there and
+						laugh and continue to exploit us </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p> he raises the question of the Chinese invasion of India I don't know the whole story about I'm
+						not sure but even if the Chinese did invade Asia it would seem to me be better for us to sit
+						down and talk with the Chinese cause I'll tell you who gonna give the Africans the h-bomb it's
+						not Russia it's not France it's not the United States it's not the Chinese are going to have to
+						give the bomb to the Africans for Mao's very survival give him give him a chance give him </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName>
+							<forename>unknown</forename>
+							<surname>unknown</surname>
+						</persName>
+					</speaker>
+					<p> what are your views on the moderates in America example like Martin Luther King and the others
+						towards the Black Power </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p> the question is what is my views towards Dr. King and the others on the attitude to um Black
+						Power now publicly we never criticize any Black man cause that's been the biggest trick of uh
+						yeah thank you so that what we've been able to do is to give you our analysis as we see the
+						Third World Dr. King comes here quite frequently I'm told uh what you should do next time is to
+						invite him to a meeting when he comes here and listen to his philosophy and decide which one you
+						would pick but I think for us to get into public quarrels about Dr. King is to evade the real
+						issue I'm after I'm after white society if Dr. King becomes so treacherous that he disrupts that
+						which we're trying to do then we will deal with him as we deal with a white man </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName>
+							<forename>unknown</forename>
+							<surname>unknown</surname>
+						</persName>
+					</speaker>
+					<p> uh Mr. Chairman uh this question just arose from an observance I've just had uh the sun probably
+						more than any other day has driven out all the Black beautiful women uh I think more than any
+						other time our Black intellectuals I'm not speaking about our bus drivers and the conductors for
+						the time being but our leaders like Mr. Banda and Seretse Khama and uh Mr. Williams etc this is
+						time for them to to involve themselves with Blackness that means we must have Black Prime
+						Minister having a Black wife the queen is now the number one woman in my country she's now the
+						number one woman in Malawi and the white woman is still number two Mr. Banda's wife do you think
+						it's time for the Black man to take on to himself a Black woman and to mold and shape this Black
+						woman into what he wants her to be do you think at this time we can afford the Black woman to
+						keep for the Black woman to keep abusing her Black beautiful body trying to be what the white
+						man is not only abusing the Black body but in spoiling her own future and instilling into the
+						minds of her Black children the feeling of insecurity and impurity Mr. Chairman the question is
+						this should this go on </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p> the answer is absolutely not and the reason is because the peoples of the Third World have been
+						whitewashed so they believe that the only beautiful woman is a white woman and that what they
+						must begin to understand is that their women are the most beautiful people going but what the
+						white man has been able to do is to put his woman up on a pinnacle call her the queen and molest
+						every other woman around the world he has raped and plundered every woman he's put his hands on
+						and I don't think that the answer is to even bother with his woman but to just put our woman on
+						the pinnacle where they belong they will be the queens of the world the white man the white man
+						also is caught in the white man's definitions and the white definition of equality perhaps was
+						the first time questioned when there was riots in Watts for the Americans and then we knew for
+						instance you take care of your head when the head starts aching now the white man was
+						unconscious perhaps that's true I I have gone to jail for Viet against Vietnam against different
+						things like that politically I was conscious of that now how can you make me conscious of my of
+						the white definitions of my white understanding of the world you can make me conscious by every
+						time you there is a uh violation of you because you're Black tell me shout it each one has to
+						really protest when you think you could you have to confront us open up the world we can't do it
+						because we're unconscious it's not hurting us that's right it's helping us and you ha well
+						period that's it what just just one more comment and that is that when you that's on the let's
+						say personal level on the institutional level when you start to you know move with guns and
+						things of this order there are white boys that are also going to move with guns on your side
+						well I do not think that if anyone can look at the world today take a look at Vietnam take a
+						look at Bolivia Peru Cuba take a look at Aden take a look at Hong Kong take a look at Africa
+						take a look at Asia that they can say they're unconscious of the problems of the world I think
+						you're opting out it's clear where the world is at can I can I finish now if you say that there
+						are white boys who are going to be moving with guns when we move we will be glad for them to
+						move with us we are still looking for them I mean we're clear on that I'm not I'm not
+						condescending I mean that sincerely cause I I don't know what I would do if I were white but I
+						would think that a lot that white people should pick up guns for and begin to shoot other white
+						people for uh but until they do that there's no need to talk about it's hypothetical I think the
+						problem with white revolutionaries is that their intellectual revolutionaries but they're not
+						emotional revolutionaries because they've not been involved in a real struggle their struggle
+						has been a vicarious struggle through the struggles of other peoples now that's a real problem I
+						think for you as a white person I think that one of those developments can come out of what they
+						call the hippie movement if they would get some political sense see or if they would stop
+						playing children and grow up they would get some sense I think though ironically as it may sound
+						the only time that they will start to choose is when white people start getting shot cause then
+						they will have no choice either to shoot at us or join us if they recognize where the world is
+						leading and if they recognize that that is what is going to happen then they will begin to
+						choose sides in the United States they're still opting out they're coming to us and saying put
+						your guns down we're not going to listen to them they're going to have to choose I think that'll
+						be your problem you can choose some frantic signals are coming from the back down they're
+						telling us please close off now we're going to have to do just that before it is you go there
+						will be a couple more questions there'll also be a couple a few of the sisters again with their
+						bags because it costs a lot of money to ship one man from here to the West Indies and so far the
+						bird that says you all have thrown up cannot really send him halfway across the Atlantic so we
+						expect you again to try your best just two more questions from the rest while the sisters are
+						around I listen to Mr. Carmichael very attentively and I think no sane person can disagree with
+						him but two questions generally have occurred to my mind when Mr. Carmichael talks of Black
+						Power don't you feel that he seems to be a lot obsessed by the Chinese explosion of hydrogen
+						bomb he talks he talks a lot of being pro-Chinese but what the Chinese have done in Tibet does
+						it not mean that the Chinese are another imperialist powers don't be I think it's a matter which
+						cannot be judged by being emotional and shouting what has happened in Tibet I was partly an
+						eyewitness and I think by little color association Mr. Carmichael is very much preaching that we
+						should go back to another imperialist power the second question which I would like to put to Mr.
+						Carmichael is that although it is very immoral to give a transistor to an overpopulated people
+						and ask them to be sterilized but is it not also scientific at the same time that an
+						underdeveloped country should have some scientific method of controlling population I am asking
+						a question is it not proper that an underdeveloped country should also have some scientific
+						method of birth control </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p> well let me take your last question first I do not believe in the world today there's any
+						underdeveloped countries that's a white man's term I think I think there are overexploited
+						countries I would not be opposed if the people of India decided that they should have some
+						scientific method of birth control in the West you have scientific method of birth control you
+						do not have sterilization there is a difference there is a big difference between birth control
+						and sterilization and you don't have sterilization in exchange for a transistor radio it is
+						crystal clear to me that if I wanted to not have babies I could have sexual intercourse and not
+						have babies I do that all the time but when the but when the time comes for me to have babies I
+						want to be able to reproduce if the West were really concerned with that then they could give
+						people birth control pills they can give them prophylactics they can give them Emko they can
+						give them a million and one things they give to their young white kids so that when those white
+						kids get ready to reproduce they can do so so I think you ought to clear up the difference
+						between sterilization and birth control that's very very important as to your former question I
+						again I'm not sure about the discussion of China and Tibet because I'm not able to get any
+						information any real information from any of those situations I only know what I'm able to get
+						by reading through the lines for example I noticed that when the CIA overthrew Sukarno and
+						killed over a million people there was nothing said about it nobody blinked an eye about it and
+						it was clear it is clear to me what that has done I know that the one thing Mao has done is to
+						put all of the white West out of his country and he has been able to develop our country within
+						19 years that is a fantastic thing to do fantastic thing to do I read his books and they make
+						sense to me politically I understand his moves I understand his fight for cultural integrity
+						with the Red Guards I understand his fight against revisionism which is a fight inherent which
+						is a fight inherent if you adopt the bureaucratic structures of the West that is why so many
+						people who say they get their independence end up being hated by their very people because
+						number one they turn around they adopt the same structures which have been made to oppress their
+						people and they become trapped by them I also understand that Mao Tse Tung like Fidel Castro has
+						armed his people and I think arming of the people is the only way to ensure the liberation of
+						the struggles </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName>
+							<forename>unknown</forename>
+							<surname>unknown</surname>
+						</persName>
+					</speaker>
+					<p> Mr. Speaker in the course of your speech you talked about the American CI and FBI overthrowing
+						the governments of other countries I ask why should this go on and what can we do about it why
+						can't the people of Latin America the Negroes in America the Africans unite and set up a
+						powerful machine by which we can also overthrow the governments of our enemies I ask why should
+						this go and what are we going to do about it </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p> I think that the type of meetings we've been having in London is a beginning to precisely that
+						it is it is crystal clear to me that we're going to have to develop a structure that is going to
+						fight the CIA and it's going to fight the MI5 unfortunately so far in the United States our only
+						answer to the CIA is the M14 but as we go along we're definitely going to have to develop those
+						type of structures to overthrow their governments also and that that will develop as all of us
+						begin to internationalize our struggle and put aside these petty differences and begin to move
+						as a united struggle to end the oppression of our peoples </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName>
+							<forename>unknown</forename>
+							<surname>unknown</surname>
+						</persName>
+					</speaker>
+					<p> I would like to ask Mr. Carmichael whether he doesn't think that it's evident that uhm the
+						general manifestations which are covered by the word hippie and have been so covered in this
+						conference are a dialectical counterpart of the the part that he himself is playing in
+						attempting to uhexterminate to repeat it because I couldn't understand it don't you think that
+						what's going on and is being called the hippies is a dialectical counterpart of what you're
+						doing in the whole general dialectical process of exterminating the insanity of what's called
+						white civilization you can call anything like because what the reason I why I think it is in
+						fact the case is it seems that uhm in one set of terms the way you could describe the whole
+						thing is that the white man quote unquote has been dehumanizing objectifying rarefying the Black
+						man for so long and this is precisely the same sort of thing as Hegel's example of dialectics
+						where the master enslaves the servant for so long that he himself eventually becomes the slave
+						of the servant because in the end what the white man has done has been to objectify himself now
+						it is the Black man who is humanized and the white man who not knowing how it has happened has
+						just woken up to the situation is objectified and surely it's going to help you when this
+						realization spreads because white society is then just going to collapse I mean it's the
+						dialectical thing is happening and two sides of it happen at the same time that's why it's
+						dialectical </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p> I see the hippies at best for us as a neutral force at best I do not see the hippies as doing
+						the type of things that you reply I wish they would do it the difference is that the hippies do
+						not have the same type of brutal overt oppression that we do they have a psychological
+						oppression or what have you which may be just as brutal but the fact is they have not begun to
+						fight their oppressors they have in fact dropped out of sight of their oppressors and that
+						unfortunately the peoples of the Third World cannot drop out of that oppression because it's a
+						day-to-day constant thing so I think if the hippies became political and began to fight Western
+						society then that would be but I think the reason why uhm white society has not begun to attack
+						the hippies is because they're doing just what they want them to do they've been able to
+						neutralize those which could be forming a real resistance movement inside their own society </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p> with regards to the same point uh uh I wonder what the uh members of the hippie movement will be
+						doing if scenes like what happened in New York in the East Village just a few weeks ago at
+						Tompkins Park are recreated where there was just a small uh number of people who were like quite
+						peaceful and happy and chanting and soon there was like there was this frank police brutality in
+						trying to uh break up that scene and uhm what what then again you know uh will throwing flowers
+						on them help or is something else necessary and I think we this this has been escalated in the
+						States uhm that the hippies are subject to more of this brutality and well what to do </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/108417923">
+							<forename>Allen</forename>
+							<surname>Ginsberg</surname>
+						</persName>
+					</speaker>
+					<p> what happened in Tompkins Square according to the hippies who were there who were attacked by
+						the police while singing was that rather than escalating the violence and projecting more
+						imagery of violence and fixing the violent cops in their role as violent the hippies simply
+						neutralized the violence by means of psychic mechanisms which are available to Mr. Carmichael
+						too which he has not fully availed himself of yet </p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/21793332">
+							<forename>Michael</forename>
+							<surname>de Freitas</surname>
+						</persName>
+					</speaker>
+					<p> David David there seems to be a lot more people wanting to ask some questions and you're
+						signaling frantically does that mean that they must quit now this is the white man house and
+						he's screaming down at me let the same white man come up and tell you what it is is happening he
+						says let it carry on he's afraid okay I'll come off with you David hello </p>
+				</sp>
+				<sp>
+					<speaker/>
+					<p> Mr. Speaker I think you refer to Russia as an enemy of the Third World Third World as I
+						understand it there is the Afro-Asian Bloc the Soviet Bloc and the Western Bloc and the Soviet
+						Bloc according to my impression is on the side of the Afro-Asian Bloc is it true to assume that
+						it's correct</p>
+				</sp>
+				<sp>
+					<speaker>
+						<persName ref="http://viaf.org/viaf/56766707">
+							<forename>Stokely</forename>
+							<surname>Carmichael</surname>
+						</persName>
+					</speaker>
+					<p> yes yes I do not believe that the Russians are on the side of the Afro-Asian bloc I do not
+						believe that I do not believe that for a number of reasons number one it is crystal clear to us
+						that the economy of the Soviet Union will very soon align itself with the economy of the United
+						States of America I do not believe that because I watched very closely the uh sessions of the
+						United General uh the General Assembly of the United Nations over the question of the Middle
+						East and I saw how Russia and the United States manipulated the entire meeting to talk about
+						Vietnam rather than to talk about the Middle East crisis I also saw how Russia dilly-dallied
+						about giving real aid to the Egyptians but brother Mao wasted no time in giving them wheat and
+						money to carry on their fight I also notice that there are two splits over which the Soviet
+						Chinese split came about and the real split was Russia's position of peaceful coexistence as
+						opposed to Mao's position of armed resistance and it is crystal clear to me that the Russians
+						talk about peaceful coexistence because armed insurrection will disrupt will disrupt their
+						economy and their way of life I noticed their police brutality against Arab students who
+						demonstrated in Russia at the Israeli Israeli embassy and finally I don't think Russia ever
+						really had a good revolution they just had a revisionist party and they have not armed their
+						people they have not armed their people I think that it is crystal clear to all of us where
+						Russia is going she is going to ally herself because her economy is going to have to be based on
+						the West that is why Kosygin and Johnson spent so much time talking and the United States is
+						having all these cultural exchange programs with the Soviet Union so they can begin to brainwash
+						their people and move closer together so that's crystal clear to me I noticed that the United
+						States gave Israel the power to develop an atomic bomb she's the only country in Africa that has
+						an atomic bomb Russia has not moved to give any African country the atomic bomb the United
+						States sold a nuclear reactor to the Union of South Africa which they call the Union of South
+						Africa and Zania I have not seen Russia move to offset that at all I noticed that when you talk
+						about nuclear test ban you have Russia the United States France and Britain all talking about it
+						all of them have the hydrogen bomb they want people to stop getting the hydrogen bomb because
+						they already have it what we need is people like Mao who gonna give us the hydrogen bomb
+						equality will only come when everybody has a hydrogen bomb applause there's one announcement on
+						Tuesday at 8 pm there will be an evening of Black poetry and jazz at the West Indian student
+						center 1 Collingham Gardens Ted Jones whom you know Andrew Salkey who you just saw John La Rose
+						who just spoke and beautiful poems on the Harlem Rebellion some of which we've brought over will
+						be read </p>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>
